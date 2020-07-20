@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp ReactJS
+1. Nama: Zulfikar Fitri Istyanto
+2. Email: zulfikar.zfi@gmail.com
+3. Sistem Operasi yang digunakan: Windows 10
+4. Akun Gitlab: https://github.com/Zulfiyanto
+5. Akun Telegram: @Zulfiyanto
